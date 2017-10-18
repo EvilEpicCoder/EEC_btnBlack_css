@@ -8,7 +8,7 @@
 #### 2. What I use in this project
  * Frameworks : CSS
  * Screenshot: 
-  * ![alt text](https://github.com/EvilEpicCoder/EEC_btnBlack_css/blob/master/Screenshot.png "Screenshot")
+   *  ![alt text](https://github.com/EvilEpicCoder/EEC_btnBlack_css/blob/master/Screenshot.png "Screenshot")
 
  * What cool things I found: BAD ASS looking, probably bad lokking, but I love it.
   * What I do not like: only had icons (4pcs only) what I use VK, Facebook, Twitter, freeCodeCamp.
