@@ -7,7 +7,7 @@
  * Small story telling : Just looking BAD ASS
 #### 2. What I use in this project
  * Frameworks : CSS
- * Links: [This is Link CHANGE_HERE name](https://www.CHANGE_HERE)
+ * Links: ![alt text](https://github.com/EvilEpicCoder/EEC_btnBlack_css/blob/master/Screenshot.png "Screenshot")
  * What cool things I found: BAD ASS looking, probably bad lokking, but I love it.
   * What I do not like: only had icons (4pcs only) what I use VK, Facebook, Twitter, freeCodeCamp.
   * Features: Ultra small size
@@ -16,5 +16,5 @@
   * Time consumption: I do not count
   * What I learned: Bad ass xD
 
-  Version: `0.1a`
-  Date: `19.10.2017`
+  Version: `0.2a`
+  Date: `20.10.2017`
