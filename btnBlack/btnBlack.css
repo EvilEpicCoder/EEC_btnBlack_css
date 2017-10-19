@@ -1,51 +1,39 @@
-.btn-deco{
+.btn-link
+{
 	height:42px;
 	width:42px;
 	text-decoration:none;
 	display:block;
 	padding: 1px;
 	border: 1px #000 solid;
-}
-.btn-link
-{
 	background: linear-gradient(gray,white,gray);
-    color:white;
+  color:white;
 }
 .btn-link:hover
 {
 	background: linear-gradient(white,gray,white);
-    color:black;
+  color:black;
+}
+.i-fcc, .i-vk, .i-facebook, .i-twitter{
+	background-position: left center;
+  background-repeat: no-repeat;
+  padding:0px 42px 23px 0px;
+  background-size: 42px 42px;
 }
 .i-twitter{
 	background-image:url("twitter.png");
-	background-position: left center;
-  background-repeat: no-repeat;
-  padding:0px 42px 23px 0px;
-  background-size: 42px 42px;
 }
 .i-facebook{
 	background-image:url("facebook.png");
-	background-position: left center;
-  background-repeat: no-repeat;
-  padding:0px 42px 23px 0px;
-  background-size: 42px 42px;
 }
 .i-vk{
 	background-image:url("vk.png");
-	background-position: left center;
-  background-repeat: no-repeat;
-  padding:0px 42px 23px 0px;
-  background-size: 42px 42px;
 }
 .i-fcc{
 	background-image:url("fcc.png");
-	background-position: left center;
-  background-repeat: no-repeat;
-  padding:0px 42px 23px 0px;
-  background-size: 42px 42px;
 }
 .big-margin{
-display:inline-block!important;
+  display:inline-block!important;
 	margin:10px;
 	border:5px;
 }
